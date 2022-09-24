@@ -1,2 +1,2 @@
 # My name Bima Putra
-I'm a Backend Engineer. Currently working in Todis Karya Bangsa. 
+I'm a Backend Developer. Currently working in Todis Karya Bangsa. 
